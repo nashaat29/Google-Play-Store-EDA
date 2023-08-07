@@ -4,6 +4,8 @@
 
 Welcome to the Google Play Store Apps Dataset EDA project! In this project, we will perform a comprehensive analysis of the Google Play Store dataset using Python, Jupyter, pandas, matplotlib, seaborn, and numpy. The primary objective is to gain valuable insights into the characteristics of mobile applications listed on the Google Play Store.
 
+Dataset Link: https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
+
 ## 1 - Data Cleaning
 
 The initial step of the project involves data cleaning using pandas. We will ensure the data's consistency and quality by handling missing values, removing duplicates, and filtering out irrelevant information.
